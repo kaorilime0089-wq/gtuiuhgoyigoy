@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Unity Game</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <img src=""C:\Users\kaori\Downloads\154e71bfbd44d1b7f8c4413f3970b9b7_w.jpg"" class="logo" alt="ロゴ">
+
+    <h1>My Unity Game</h1>
+
+    <p>Unityで制作したオリジナルゲームへようこそ！</p>
+</header>
+
+<main>
+
+    <h2>ゲーム紹介</h2>
+
+    <img src="images/game.jpg" class="gameImage" alt="ゲーム画像">
+
+    <p>
+        FPS・ホラー・アクションゲームを制作しています。
+    </p>
+
+    <button onclick="alert('ゲーム公開予定です！')">
+        プレイする
+    </button>
+
+</main>
+
+<footer>
+
+<p>© 2026 My Unity Game</p>
+
+</footer>
+
+</body>
+</html>
